@@ -1,6 +1,6 @@
 # Blazor DataGrid with CustomAdaptor
 
-A complete example demonstrating how to build a data-driven Blazor application using Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) with a custom data adaptor for CRUD operations and advanced data operations like sorting, filtering, and paging.
+A complete example demonstrating how to build a data-driven Blazor application using [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) with a custom data adaptor for CRUD operations and advanced data operations like sorting, filtering, and paging.
 
 ## Overview
 
@@ -12,7 +12,7 @@ This sample project showcases best practices for building scalable data manageme
 - **Sorting** - Sort data by multiple columns in ascending or descending order
 - **Paging** - Handle large datasets with efficient pagination
 
-The application uses Syncfusion's `CustomAdaptor` pattern, which extends the `DataAdaptor` class to implement custom Read, Insert, Update, and Remove methods, giving you full control over how data is fetched and manipulated.
+The application uses `CustomAdaptor` pattern, which extends the `DataAdaptor` class to implement custom Read, Insert, Update, and Remove methods, giving you full control over how data is fetched and manipulated.
 
 ## Features
 
@@ -23,9 +23,9 @@ The application uses Syncfusion's `CustomAdaptor` pattern, which extends the `Da
 
 ## Prerequisites
 
-- [.NET SDK 7.0 ](https://dotnet.microsoft.com/download/dotnet/7.0) or later
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
-- [Visual Studio Code](https://code.visualstudio.com/)
+* [.NET SDK 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) or later
+* [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Getting Started
 
@@ -57,4 +57,6 @@ dotnet run
 
 **Documentation**: https://blazor.syncfusion.com/documentation/datagrid/connecting-to-adaptors/custom-adaptor
 
-**Online example**: https://blazor.syncfusion.com/demos/datagrid/custom-binding?theme=bootstrap5
+**Online examples**: https://blazor.syncfusion.com/demos/datagrid/custom-binding?theme=bootstrap5
+
+
